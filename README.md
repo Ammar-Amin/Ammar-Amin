@@ -5,15 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammar-amin&label=Profile%20views&color=0e75b6&style=flat" alt="ammar-amin" /> </p>
 
-- 24-hour Challenge from Dacoid Digital, delivering a full-fledged fitness app with 7 pages using React.js and Tailwind CSS! 💪 
-Email: dummy@example.com
-Password: dummy
-Note: Use the same credentials for both sign up and login pages.
-[here](https://dacoidfitness.netlify.app/)
+- Developed a full-featured blog application using React, Redux, React Hook Forms, and Appwrite for backend operations. 
+Email: dum@my.com | Password: dum@my.com | [blog](https://blog-app-05.netlify.app/)
 
-- Created a Responsive ATG website Home, Login & Signup pages within 2 days [ATG-UI-Clone](https://atg-world-web.netlify.app/)
+- Cloned a complex website in 3 days utilizing React, Tailwind CSS, and React Router for navigation. [qid-Clone](https://qid-ui-by-ammar.vercel.app/)
 
-- 🌱 I’m currently learning **ContextAPI, Redux**
+- 🌱 I’m currently learning **Express, MongoDb**
 
 - A Weather App with current & forecast for the next 4 days [Weather-Forecast-App](https://ammar-amin.github.io/Weather-App/)
 
@@ -25,9 +22,9 @@ Note: Use the same credentials for both sign up and login pages.
 
 - 📫 How to reach me **ammaramin5253@gmail.com**
 
-- 📄 Know about my experiences [https://resume.am.in](https://drive.google.com/file/d/1XBS2xW86ewiYldFchhXXhXI_5ZiVc90j/view?usp=drivesdk)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1z8OK2_iFvYh58pEqkuH_B4U43LU0dPuY/view?usp=drivesdk)
 
-- ⚡ Fun fact **I love Judo & Animes(OP fan)**
+- ⚡ Fun fact **I love Judo & Animes (fav. so far - OP)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
