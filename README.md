@@ -6,12 +6,13 @@
 </h3>
 
 <br/>
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ammar-amin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
+
+<br clear="right"/>
 
 ---
 
@@ -29,21 +30,21 @@
 
 ### 🤝 Connect With Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/ammar-amin5253" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/ammar_amin007" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:ammaramin5253@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/Ammar-Amin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://wa.me/9325416499" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
@@ -51,7 +52,7 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,tailwind,git,github,vscode&perline=6" />
 </p>
 
@@ -59,10 +60,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-amin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ammar-amin&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
