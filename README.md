@@ -6,7 +6,7 @@
 </h3>
 
 <br/>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ammar-amin&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
@@ -53,7 +53,7 @@
 ### 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,tailwind,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,tailwind,git,github,vscode&perline=14" />
 </p>
 
 ---
